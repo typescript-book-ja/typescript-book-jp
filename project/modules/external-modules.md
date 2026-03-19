@@ -63,7 +63,7 @@ export { someVar as aDifferentName };
 import { someVar, SomeType } from './foo';
 ```
 
-* 名前を変更して_import_を使って変数や型をインポートする
+* 名前を変更して`import`を使って変数や型をインポートする
 
 ```javascript
 // `bar.ts`ファイル
